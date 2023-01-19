@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "avaScript: Learning a New Language"
+title: "JavaScript: Learning a New Language"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 published: true
@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*The First Week*
+
 
 ## The First Week
 
