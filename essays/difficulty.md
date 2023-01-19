@@ -10,7 +10,7 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="...img/download (1).jpg">
-![plot](img/download (1).jpg)
+<![plot](img/download (1).jpg)>
 
 ## The First Week
 
