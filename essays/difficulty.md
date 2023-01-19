@@ -10,7 +10,7 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="...img/download (1).jpg">
-![alt text](https://github.com/Nicsteg/Nicsteg.github.io/blob/53414a5a38a17fa1b197437cb1bbc02370c5bd22/img/download%20(1).jpg)
+[alt text](https://github.com/Nicsteg/Nicsteg.github.io/blob/53414a5a38a17fa1b197437cb1bbc02370c5bd22/img/download%20(1).jpg)
 
 
 ## The First Week
