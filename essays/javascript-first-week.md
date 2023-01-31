@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/download (1).jpg">
 
-## The First Week
+## The First Week!
 
 Since starting at the University of Hawaii at Manoa in Computer Science I have learned some basic languages in coding such as C, C++, and Java. Through Software Engineering 1(ICS 314), we have been introduced to JavaScript for upcoming coding challenges called the workout of the day (WOD) and to build and develop a professional portfolio. Overall, JavaScript seems simple and more concise than other languages. Learning ES6 also consolidates the language using different features such as arrow functions and destructuring. JavaScript is a good language for programming and developing websites. I am eager to develop my skills in programming while building a professional portfolio. 
 
