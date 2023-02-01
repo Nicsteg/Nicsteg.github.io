@@ -11,12 +11,7 @@ labels:
   - C++
 summary: "Devloped a simple SHA-1 hash algorithm"
 ---
-
-<div class="text-center p-4">
-  <img height="200px" width="200px" src="../img/CLionFinalProject.png" class="img-thumbnail" >
-  <img height="200px" width="200px" src="../img/Hash_function_long.png" class="img-thumbnail" >
-  <img height="200px" width="200px" src="../img/cLionimg.jpg" class="img-thumbnail" >
-</div>
+<img class="img-fluid" src="../img/CLionFinalProject.png">
 
 Cryptography secures communication by creating protocols preventing people from accessing private information. SHA-1 (Secure Hash Algorithm 1) is a hash function that takes input and produces a message digest. Hash functions map data of different sizes to a fixed value. Hash functions take a key as an input and use it for data storage and retrieval.  
 
