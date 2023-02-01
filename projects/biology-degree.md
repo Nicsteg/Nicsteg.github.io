@@ -11,7 +11,9 @@ labels:
   - Research
 summary: "Graduated from the University of Hawaii at Manoa with a degree in Biology"
 ---
-<img class="img-fluid" src="../img/2khawaii.jpg">
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/2khawaii.jpg" >
 
 My aspiration to be a biologist and work in the medical field has been shaped strongly by my parents. My father received his Ph.D. in Zoology from UC Berkeley and has worked as a teacher and research biologist all of his life. My mother, who is also a teacher, has worked with him around the world on many research projects. I grew up with stories about their work. I have seen the contribution that their research has made to understanding the world we live in. Currently, there is a serious shortage of medical services in Hawaii. For example, my father recently developed a cataract in his right eye. He has had to wait for over two months just for an appointment to see a specialist about his condition. After that, who knows how long he will have to wait for the actual surgery. My academic goals going into college were to either do research or become a healthcare professional after graduation. 
 
