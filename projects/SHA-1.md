@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CLionFinalProject.png
+image: img/Hash_function_long.png
 title: "SHA-1"
 date: 2021
 published: true
