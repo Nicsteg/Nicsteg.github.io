@@ -14,8 +14,8 @@ summary: "My team developed a Pokemon GUI text base game."
 
 <div class="text-center p-4">
   <img width="200px" src="../img/pokemonGUI.png" class="img-thumbnail" >
-  <img width="200px" src="../img/poke4.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/poke5.png" class="img-thumbnail" >
+  <img width="200px" src="../img/PokeGUISquirtle.png" class="img-thumbnail" >
+  <img width="200px" src="../img/pokeguibackpack.png" class="img-thumbnail" >
 </div>
 
 PokeGUI is a Graphical User Interface (GUI) of a Pokemon species hierarchy that was developed in Java. This project used object-oriented programming to create a hierarchical system for basic pokemon such as Squirtle, Wartortle, and Blastoise. These pokemon species families were then used as the basis of a simple game to catch and store pokemon in a binary search tree. The binary search tree was an essential representation of a Pokedex in which different Pokemon were kept throughout the game. Storing Pokemon was done by filling a stack and priority queue. Other buttons such as hunt, catch, Pokedex, and backpack were used for the Gui. 
