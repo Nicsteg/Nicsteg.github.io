@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pokemonGUI.png
+image: img/CLionFinalProject.png
 title: "SHA-1"
 date: 2021
 published: true
