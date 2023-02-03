@@ -62,29 +62,28 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Ichiriki Japanese Nabe Restaurant",
+      "position": "Server",
+      "website": "",
+      "startDate": "2018-04-01",
+      "endDate": "2018-12-23",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Serving, bussing, and back of house work. Started as a busser, eventually worked my way up to the front of the house. Worked as a server for the second half of employment."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
+      "organization": "Waikiki Aquarium: Docent",
+      "website": "www.waikikiaquarium.org",
+      "position": "Volunteer",
+      "startDate": "2013-08-01",
+      "endDate": "2013-12-01",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Trained and worked to meet, greet, and guide small culturally diversegroups through the various exhibits at the Aquarium. ",
+        "Developed team skills to accomplish organizational goals."
       ]
     },
     {
