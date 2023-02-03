@@ -32,10 +32,19 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019",
       "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Biology",
+      "studyType": "B.A.",
+      "startDate": "2012",
+      "endDate": "2016",
       "courses": [
       ]
     }
