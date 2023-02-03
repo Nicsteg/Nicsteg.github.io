@@ -26,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Git/GitHub","IntelliJ IDEA" ]
     }
   ],
   "education": [
@@ -39,50 +39,57 @@
       "courses": [
       ]
     }
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Biology",
+      "studyType": "B.A.",
+      "startDate": "2012",
+      "endDate": "2016",
+      "courses": [
+      ]
+    }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Kawamoto Orchid Nursery",
+      "position": "Nursery Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-03-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "General operations",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Helping with general operations. Everyday work includes: propagation, preparing plants for sale, general maintenance, planning for shows and events."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Ichiriki Japanese Nabe Restaurant",
+      "position": "Server",
+      "website": "",
+      "startDate": "2018-04-01",
+      "endDate": "2016-12-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Serving, bussing, and back of house work. Started as a busser, eventually worked my way up to the front of the house. Worked as a server for the second half of employment."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Waikiki Aquarium: Docent",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2013-08-01",
+      "endDate": "2013-12-01",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Trained and worked to meet, greet, and guide small culturally diverse groups through the various exhibits at the Aquarium",
+        "Developed team skills to accomplish organizational goals"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
@@ -95,16 +102,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "B.A. Biology",
+      "date": "2012-2016",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Graduated Magna Cum Laude in 4 years with a Cumulative G.P.A. of 3.77"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Deans List",
+      "date": "2012-2016",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Dean's List (7/8 semesters) while earning a Certificate of Sophomore High Honors 05/17/14"
     }
   ],
   "references": [
