@@ -9,7 +9,7 @@ labels:
   - Java
   - jGRASP
   - GUI
-summary: "My team developed a Pokemon GUI text base game."
+summary: "My team developed a Pokemon GUI text base game"
 ---
 
 <div class="text-center p-4">
