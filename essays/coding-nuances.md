@@ -15,7 +15,7 @@ labels:
 
 ## Standardization Leads to Efficiency
 
-Coding standards are an essential part of software engineering because they help standardize coding, which helps minimize the risk of error and safety. When working alone in class on projects, it may not seem important to have a coding standard because you will be the only person viewing the code. However, when you become a part of a larger team, sometimes project code will be shared with other development teams that will be in charge of reading and understanding your code and documentation. Thankfully, tools can help with coding standards in frameworks such as IntelliJ. ESLint is an open-source addon that notifies you when you have a coding error and can be modified to help suit coding standards.
+Code formatting is an essential part of software engineering because it helps standardize coding, which minimizes the risk of error and increases safety. When working alone in class on projects, it may not seem important to have a coding standard because you will be the only person viewing the code. However, when you become a part of a larger team, sometimes project code will be shared with other development teams that will be in charge of reading and understanding your code and documentation. Thankfully, tools can help with coding standards in frameworks such as IntelliJ. ESLint is an open-source addon that notifies you when you have a coding error and can be modified to help suit coding standards.
 
 ## The Power of Coding Tools
 
