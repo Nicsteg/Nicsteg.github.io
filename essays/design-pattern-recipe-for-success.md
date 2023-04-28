@@ -13,7 +13,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/design-pattern.png">
 
-## Design patterns: Dev's Cookbooks
+## Dev's Cookbooks
 
 Design patterns are solutions to common problems that arise during development. Design patterns streamline the development process by providing proven solutions to recurring issues. Having design patterns helps create readable code that can help prevent problems with future development by decreasing errors and increasing scalability. Conventionally, there are three overarching design patterns: creational, structural, and behavioral. Design patterns can be compared to recipes for cooking. Recipes describe step-by-step methods for preparing a meal. By following the cooking recipe, one can create a consistent and pleasing dish. Following a design pattern can help with the development process by creating consistent and readable code. 
 
