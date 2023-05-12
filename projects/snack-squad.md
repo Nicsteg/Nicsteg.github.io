@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/snack-squad-main.png
-title: "Snack-Squad"
+title: "Snack-Squa"
 date: 2023
 published: true
 labels:
