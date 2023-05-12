@@ -4,7 +4,7 @@ type: project
 image: img/2khawaii.jpg
 title: "Degree in Biology"
 date: 2016
-published: true
+published: false
 labels:
   - Biology
   - Pre-Med
