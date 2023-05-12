@@ -13,7 +13,7 @@ labels:
   - Functional Programming
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/design-pattern.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/JS-HTML.png">
 
 ## The Bigger Picture
 
