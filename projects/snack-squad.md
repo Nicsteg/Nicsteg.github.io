@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/snack-squad-main.png
-title: "PokeGUI"
+title: "Snack-Squad"
 date: 2023
 published: true
 labels:
