@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Software Engineering: Giving Back"
 # All dates must be YYYY-MM-DD format!
-date: 2023-05-08
+date: 2024-05-08
 published: true
 labels:
   - JavaScript
